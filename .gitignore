@@ -1,0 +1,4 @@
+.eslint*
+.env
+dist/*
+node_modules/*
